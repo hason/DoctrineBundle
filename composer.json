@@ -39,7 +39,7 @@
         "symfony/validator": "~2.2|~3.0",
         "symfony/property-info": "~2.8|~3.0",
         "symfony/phpunit-bridge": "~2.7|~3.0",
-        "twig/twig": "~1.10",
+        "twig/twig": "~3.14",
         "satooshi/php-coveralls": "~0.6.1",
         "phpunit/phpunit": "~4"
     },
